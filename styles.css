@@ -1,0 +1,18 @@
+.nava {
+    height: 10vh;
+}
+
+.centro {
+    height: 73vh;
+}
+
+.foot {
+    height: 7vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.output {
+    margin-top: 450px;;
+}
